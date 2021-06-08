@@ -1,8 +1,7 @@
 
 ### <center> 💻 CSE student here passionate about the gaming industry </center 🎮
 ### <center> My sword ⚔️ is C# and my shild 🛡️ is C++ </center
-### <center> Nice to meet you 😉 </center
->
+### <center> Nice to meet you 😉 </center>
 <!--
 **ClaudiuChelcea/ClaudiuChelcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
