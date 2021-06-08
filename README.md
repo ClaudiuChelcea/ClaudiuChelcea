@@ -1,5 +1,5 @@
 
-### <p align="center"> 💻 CSE student here passionate about the gaming industry 🎮 </p>
+### <p align="center"> 💻 CSE student passionate about the gaming industry 🎮 </p>
 ### <p align="center"> My sword ⚔️ is C# and my shild 🛡️ is C++ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
