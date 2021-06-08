@@ -1,6 +1,6 @@
 
 ### <p align="center"> 💻 CSE student passionate about the gaming industry 🎮 </p>
-### <p align="center"> My sword ⚔️ is C# and my shield 🛡️ is C++ </p>
+### <p align="center"> C# is my sword ⚔️ C# and C/C++ is my shield 🛡️ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
 <!--
