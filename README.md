@@ -1,5 +1,5 @@
 ### Hello! 💻 CSE student here passionate about the gaming industry 🎮
-### My sword ⚔️ is C# and my shild 🛡️ is C++.
+### My sword ⚔️ is C# and my shild 🛡️ is C++
 ### Nice to meet you 😉
  
 <!--
