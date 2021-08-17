@@ -2,7 +2,6 @@
 ### <p align="center"> 💻 CSE student passionate about the gaming industry 🎮 </p>
 ### <p align="center"> C# is my sword ⚔️ and C/C++ is my shield 🛡️ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
-### <p align="center"> Resume: https://drive.google.com/file/d/1Juk2bmQ9gARroZRpn59LwzK9CaOkcWwV/view?usp=sharing </p>
 
 <!--
 **ClaudiuChelcea/ClaudiuChelcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
