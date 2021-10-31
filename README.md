@@ -1,10 +1,11 @@
 <img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="280">
 
 <h1 align='center'> Hi! :wave:</h1>
+<center>
 <p align='center'>
-  <center><h2>I'm Claudiu!</h2></center>
+  <h2>I'm Claudiu!</h2>
 </p>
-
+</center>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/claudiuchelcea011/"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/LinkedIn_logo.png"></a>&nbsp;&nbsp;
