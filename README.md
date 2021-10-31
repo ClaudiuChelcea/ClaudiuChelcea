@@ -26,7 +26,7 @@
 ### Software engineering
 
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
-<br>Some relevant coursework includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
+<br><br>Some relevant coursework includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
 
@@ -46,7 +46,7 @@ Operating Systems and others.
 ### Game development
 
 I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
-<br>Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
+<br><br>Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
 
 <br><br>
 
@@ -59,7 +59,7 @@ I'm passionate about the game development industry and I'm learning about develo
 ### Business & entrepreneurship
 
 Alongside with software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
-<br>Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
+<br><br>Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
 
 <br><br><br>
 
