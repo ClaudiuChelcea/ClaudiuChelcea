@@ -1,6 +1,6 @@
 <img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="280">
 
-<h1 align='center'> Hi! :wave:, I'm Claudiu!</h1>
+<h1 align='center'> Hi! :wave:<br> I'm Claudiu!</h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/claudiuchelcea011/"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/LinkedIn_logo.png"></a>&nbsp;&nbsp;
