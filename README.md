@@ -3,7 +3,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 <center>
 <p align='center'>
-  <h2>I'm Claudiu!</h2>
+  <font size = "12">I'm Claudiu!</font>
 </p>
 </center>
 
