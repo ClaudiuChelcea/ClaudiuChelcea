@@ -31,6 +31,7 @@ I'm Claudiu.
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C++, JavaScript, C# and Python.
 
  ---
+ <br><br><br>
  
   <p>
   <img width="250" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
@@ -41,7 +42,7 @@ I like to work in a team developing apps, programs, scripts and solving real-lif
 I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
 
  ---
- 
+ <br><br><br>
   <p>
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Businessgif.gif">
 </p>
