@@ -25,9 +25,8 @@ I'm Claudiu.
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEgif.gif">
 </p>
  
-
----
 <br>
+---
 ### Software engineering
 
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C++, JavaScript, C# and Python.
