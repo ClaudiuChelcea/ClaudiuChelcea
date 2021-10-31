@@ -1,5 +1,4 @@
-[![Social banner](https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif)](https://www.linkedin.com/in/claudiuchelcea011/)
-<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif">
+<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%">
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
