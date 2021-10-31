@@ -52,7 +52,7 @@ I'm passionate about the game development industry and I'm learning about develo
 <br><br>
 
  ---
- <br><br><br>
+ <br>
   <p>
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Businessgif.gif">
 </p>
@@ -60,6 +60,8 @@ I'm passionate about the game development industry and I'm learning about develo
 ### Business & entrepreneurship
 
 Alongside with software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
+
+<br><br>
 
  ---
  
