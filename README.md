@@ -63,6 +63,7 @@ Alongside with software & game development, I like to explore the business indus
 
  ---
  📝 View resume: https://bit.ly/3jUQhuN 
+ 
  ---
 
 <h1 align='center'><i>Stay awesome!</i></h1>
