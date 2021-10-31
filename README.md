@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-<h1>I'm Claudiu</h1>.
+<h2>I'm Claudiu</h2>.
 </p>
 
 
