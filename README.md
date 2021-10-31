@@ -1,3 +1,4 @@
+# [![Header](https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif)](https://www.linkedin.com/in/claudiuchelcea011/)
 
 ### <p align="center"> 💻 CSE student passionate about the gaming industry 🎮 </p>
 ### <p align="center"> C# is my sword ⚔️ and C/C++ is my shield 🛡️ </p>
