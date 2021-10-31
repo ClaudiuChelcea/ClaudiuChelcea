@@ -54,7 +54,8 @@ Alongside countless tutorials and materials, I've also attended a game developme
   <p>
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Businessgif.gif">
 </p>
- 
+<br>
+
 ### Business & entrepreneurship
 
 Alongside with software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
