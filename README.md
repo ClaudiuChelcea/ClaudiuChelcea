@@ -9,7 +9,7 @@ I'm Claudiu.
 <p align='center'>
 <a href="https://www.linkedin.com/in/claudiuchelcea011/"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/LinkedIn_logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/chelcea.claudiu1/"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Facebook-logo.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/ClaudiuChelcea"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/github-logo.png></a>&nbsp;&nbsp;
+<a href="https://github.com/ClaudiuChelcea"><img height="30" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/github-logo.png"></a>&nbsp;&nbsp;
 </p>
 
   ---
