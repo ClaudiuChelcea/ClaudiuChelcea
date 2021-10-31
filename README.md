@@ -1,4 +1,4 @@
-<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="300">
+<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="200">
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
