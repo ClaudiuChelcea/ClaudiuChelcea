@@ -27,13 +27,18 @@ I'm Claudiu.
  
  ---
 <br>
-Software engineering
+### Software engineering
 
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C++, JavaScript, C# and Python.
+
 <br>
----
+   ---
+   
 <br>
+
+
  ---
+ 
  <br>
  
   <p>
