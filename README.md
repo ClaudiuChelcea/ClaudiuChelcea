@@ -30,7 +30,9 @@ I'm Claudiu.
 Software engineering
 
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C++, JavaScript, C# and Python.
-
+<br>
+---
+<br>
  ---
  <br>
  
@@ -38,7 +40,8 @@ I like to work in a team developing apps, programs, scripts and solving real-lif
   <img width="250" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
 </p>
  
-<br>### Game development
+<br>
+### Game development
 
 I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
 
