@@ -31,7 +31,7 @@ I'm Claudiu.
 I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C++, JavaScript, C# and Python.
 
  ---
- <br><br><br>
+ <br>
  
   <p>
   <img width="250" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
