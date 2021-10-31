@@ -41,7 +41,6 @@ Operating Systems and others.
 </p>
  
  
-<br><br>
  
 ### Game development
 
