@@ -56,7 +56,7 @@ I'm passionate about the game development industry and I'm learning about develo
 
 ### Business & entrepreneurship
 
-Alongside with software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
+Besides software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
 <br><br>Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
 
 <br>
