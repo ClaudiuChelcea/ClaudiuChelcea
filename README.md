@@ -37,7 +37,7 @@ I like to work in a team developing apps, programs, scripts and solving real-lif
   <img width="250" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
 </p>
  
-### Game development
+<br><br>### Game development
 
 I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
 
