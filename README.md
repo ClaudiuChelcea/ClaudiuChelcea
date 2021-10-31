@@ -39,7 +39,7 @@ I like to work in a team developing apps, programs, scripts and solving real-lif
  ---
  
   <p>
-  <img width="250" align='right' height="300" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
+  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
 </p>
  
  
