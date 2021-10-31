@@ -25,7 +25,6 @@ I'm Claudiu.
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEgif.gif">
 </p>
  
-<br><br>
 ---
 ### Software engineering
 
