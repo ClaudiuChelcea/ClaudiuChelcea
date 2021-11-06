@@ -29,6 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ClaudiuChelcea&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="right" />
 </span>
 
+<br>
+ ---
  <p>
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif">
 </p>
