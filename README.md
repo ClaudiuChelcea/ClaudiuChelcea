@@ -30,7 +30,8 @@
 </span>
 
 <br>
- ---
+   ---
+   
  <p>
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif">
 </p>
