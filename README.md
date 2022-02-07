@@ -10,8 +10,8 @@
 
   ---
   
-### <p align="center"> 💻 CSE student passionate about the gaming industry and about business 🎮 </p>
-### <p align="center"> C# is my sword ⚔️ and C/C++ is my shield 🛡️ </p>
+### <p align="center"> 💻 CSE student passionate about the IT industry and about business 🎮 </p>
+### <p align="center"> Java/ is my sword ⚔️ and C++ is my shield 🛡️ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
   ---
