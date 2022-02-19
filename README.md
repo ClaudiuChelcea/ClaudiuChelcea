@@ -76,7 +76,7 @@ Besides software & game development, I like to explore the business industry, se
 <br>
 
  ---
- 📝 View resume: https://bit.ly/3jUQhuN 
+ 📝 View resume: https://bit.ly/3p1bZQ5
  
  ---
 
