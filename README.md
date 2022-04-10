@@ -29,10 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ClaudiuChelcea&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="right" />
 </span>
 
-<span float="center" height=200>
-  <h2>GitHub Statistics</h2>
-  ![hmm](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuChelcea&langs_count=10&theme=tokyonight)]()
-  </span>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ClaudiuChelcea)](https://github.com/ClaudiuChelcea/github-readme-stats)
+
 <br>
 
    ---
