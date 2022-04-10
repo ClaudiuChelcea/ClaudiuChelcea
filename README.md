@@ -31,7 +31,7 @@
 
 <span float="center" height=200>
   <h2>GitHub Statistics</h2>
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuChelcea&langs_count=10&theme=tokyonight)]()
+  ![hmm](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuChelcea&langs_count=10&theme=tokyonight)]()
   </span>
 <br>
 
