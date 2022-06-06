@@ -35,13 +35,13 @@
    ---
    
  <p>
-  <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif">
 </p>
 
 ### Software engineering
 
-I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
-<br><br>Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
+&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
+<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
 
