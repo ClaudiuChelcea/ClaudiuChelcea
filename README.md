@@ -41,7 +41,7 @@
 ### &nbsp;&nbsp;Software engineering
 
 &nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like &nbsp;&nbsp;C/C++, JavaScript, Java, C# and Python.
-<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
+<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
 
