@@ -41,7 +41,7 @@
 ### &nbsp;&nbsp;Software engineering
 
 &nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like &nbsp;&nbsp;C/C++, JavaScript, Java, C# and Python.
-<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-&nbsp;&nbsp;oriented programming, Algorithms analysis, Introduction to
+<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, &nbspObject-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
 
@@ -71,8 +71,8 @@ I'm passionate about the game development industry and I'm learning about develo
 
 ### &nbsp;&nbsp;Business & entrepreneurship
 
-&nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
-<br><br>&nbsp;&nbsp;Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
+&nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing myself &nbsp;&nbsp;through reading, taking courses about management, leadership, negotiation, and others.
+<br><br>&nbsp;&nbsp;Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the &nbsp;&nbsp;business domain, currently being the president of this NGO.
 
 <br>
 
