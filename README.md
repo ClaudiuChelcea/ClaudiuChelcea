@@ -41,7 +41,7 @@
 ### &nbsp;&nbsp;Software engineering
 
 &nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like &nbsp;&nbsp;C/C++, JavaScript, Java, C# and Python.
-<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
+<br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-&nbsp;&nbsp;oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
 
@@ -57,10 +57,10 @@ Operating Systems and others.
  
  
  
-### &nbsp;&nbsp;Game development
+### Game development
 
-&nbsp;&nbsp;I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
-<br><br>&nbsp;&nbsp;Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
+I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
+<br><br>Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
 
 <br>
 
@@ -69,10 +69,10 @@ Operating Systems and others.
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Businessgif.gif">
 </p>
 
-### Business & entrepreneurship
+### &nbsp;&nbsp;Business & entrepreneurship
 
-Besides software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
-<br><br>Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
+&nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing myself through reading, taking courses about management, leadership, negotiation, and others.
+<br><br>&nbsp;&nbsp;Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently being the president of this NGO.
 
 <br>
 
