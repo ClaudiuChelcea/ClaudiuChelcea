@@ -35,7 +35,7 @@
    ---
    
  <p>
-  <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif" style=”margin: 10px 10px 10px 10px;”>
+  <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Software engineering
@@ -52,7 +52,7 @@ Operating Systems and others.
  ---
  
   <p>
-  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif" style=”margin: 10px 10px 10px 10px;”>
+  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
 </p>
  
  
