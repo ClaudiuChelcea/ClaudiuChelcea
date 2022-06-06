@@ -38,9 +38,9 @@
   <img width="250" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/SWEGIF.gif">
 </p>
 
-### Software engineering
+### &nbsp;&nbsp;Software engineering
 
-&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
+&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like &nbsp;&nbsp;C/C++, JavaScript, Java, C# and Python.
 <br><br>&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
