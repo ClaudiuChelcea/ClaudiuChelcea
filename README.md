@@ -72,7 +72,7 @@ I'm passionate about the game development industry and I'm learning about develo
 ### &nbsp;&nbsp;Business & entrepreneurship
 
 &nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing myself &nbsp;&nbsp;through reading, taking courses about management, leadership, negotiation, and others.
-<br><br>&nbsp;&nbsp;Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the &nbsp;&nbsp;business domain, currently &nbsp;&nbsp;being the president of this NGO.
+<br><br>&nbsp;&nbsp;Also, I'm getting practical experience by attending seminaries, workshops, conferences, trainings and by being part of a student NGO focused on the business domain, currently &nbsp;&nbsp;being the president of this NGO.
 
 <br>
 
