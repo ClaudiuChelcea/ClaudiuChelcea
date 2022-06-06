@@ -40,7 +40,7 @@
 
 ### Software engineering
 
-&nbsp I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
+I like to work in a team developing apps, programs, scripts and solving real-life problems in languages like C/C++, JavaScript, Java, C# and Python.
 <br><br>Some of the relevant coursework I've taken includes: Data structures, Computer programming, Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems and others.
 
@@ -52,14 +52,14 @@ Operating Systems and others.
  ---
  
   <p>
-  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
+  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif" style="Padding: 10px,10px,10px;">
 </p>
  
  
  
 ### Game development
 
-&nbsp I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
+I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
 <br><br>Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
 
 <br>
