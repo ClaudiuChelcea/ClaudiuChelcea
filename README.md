@@ -57,10 +57,10 @@ Operating Systems and others.
  
  
  
-### Game development
+### &nbsp;&nbsp;Game development
 
-I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
-<br><br>Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
+&nbsp;&nbsp;I'm passionate about the game development industry and I'm learning about developing games in Unity and Unreal Engine, using C++ and C#.
+<br><br>&nbsp;&nbsp;Alongside countless tutorials and materials, I've also attended a game development summer school with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, etc..
 
 <br>
 
