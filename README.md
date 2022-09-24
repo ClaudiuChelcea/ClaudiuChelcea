@@ -64,7 +64,7 @@ I'm passionate about the game development industry and I'm learning about develo
 ### &nbsp;&nbsp;Business & entrepreneurship
 
 &nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing myself &nbsp;&nbsp;through reading, taking courses about management, leadership, negotiation, and others.
-<br><br>&nbsp;&nbsp;I'm getting practical &nbsp;&nbsp;experience by attending seminaries, workshops, conferences, trainings and having the experience of being the president  of a student NGO focused on the business domain.
+<br><br>&nbsp;&nbsp;I'm getting practical experience by attending seminaries, workshops, conferences, trainings and having the &nbsp;&nbsp;experience of being the president  of a student NGO focused on the business domain.
 
 Also, I'm an investor, passionate about stocks and, as well, crypto, having experince working both as a Game Economy Designer on blockchain games, also playing these types of games, and also very thoroughly learning and developing myself in this domain.
 
