@@ -52,6 +52,9 @@ Operating Systems, &nbsp;&nbsp;&nbsp;Programming Paradigms, Communication Protoc
 ### Game development
 
 I'm passionate about the game development industry and I'm learning about developing games in Unity using C#.
+<br>
+<br>
+I'm also currently working full-time as a Game Economy Designer at Gameloft, learning a lot and contributing to big projects like Sniper Fury and Sniper Champions.
 <br><br>Alongside countless tutorials, projects and materials, I've also attended two game development summer schools with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, Hyper-casual games, etc...
 
 <br>
