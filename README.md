@@ -34,7 +34,7 @@
 
 &nbsp;&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in     languages like &nbsp;&nbsp;&nbsp;C, C++, JavaScript, Java and C#.
 <br><br>&nbsp;&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, <br>&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
-Operating Systems,      &nbsp;Programming     &nbsp;&nbsp;Paradigms, Communication Protocols and others.
+Operating Systems,      Programming     &nbsp;&nbsp;&nbsp;Paradigms, Communication Protocols and others.
 
 
    
