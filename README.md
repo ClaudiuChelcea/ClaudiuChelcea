@@ -74,7 +74,9 @@ Also, I'm an investor, passionate about stocks and, as well, crypto, having expe
 <br>
 
  ---
- 📝 View resume: https://bit.ly/3BwZWzg
+  
+ 🌐 Portfolio: https://chelceaclaudiu.mystrikingly.com/
+ 📝 View resume: https://bit.ly/3SeHwuv
  
  ---
 
