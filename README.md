@@ -43,7 +43,7 @@ I'm also currently working full-time as a Monetization Specialist at Ubisoft, le
  ---
   
  🌐 Portfolio: https://chelceaclaudiu.mystrikingly.com/ <br>
- 📝 View resume: [[https://bit.ly/3Rz80at](https://bit.ly/42I0myW)]([https://bit.ly/3Rz80at](https://bit.ly/42I0myW))
+ 📝 View resume: [https://bit.ly/42I0myW](https://bit.ly/41qM050)
  
  ---
 
