@@ -32,15 +32,6 @@
 
 ### &nbsp;&nbsp;Software engineering
 
-&nbsp;&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in &nbsp;&nbsp;&nbsp;languages like C, C++, JavaScript, Java and C#.
-<br><br>&nbsp;&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer &nbs &nbsp programming, <br>&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
-Operating Systems, &nbsp;&nbsp;&nbsp;Programming Paradigms, Communication Protocols and others.
-
-
-   
-<br>
-
-
  ---
  
   <p>
@@ -56,20 +47,6 @@ I'm passionate about the game development industry and I'm learning about develo
 <br>
 I'm also currently working full-time as a Monetization Specialist at Ubisoft, learning a lot and contributing to big AAA projects like The Division 2.
 <br><br>Alongside countless tutorials, projects and materials, I've also attended two game development summer schools with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, Hyper-casual games, etc...
-
-<br>
-
- ---
-  <p>
-  <img width="250" height="170" align='left' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Businessgif.gif">
-</p>
-
-### &nbsp;&nbsp;Business & entrepreneurship
-
-&nbsp;&nbsp;&nbsp;Besides software & game development, I like to explore the business industry, self-developing &nbsp;&nbsp;&nbsp;myself through reading, taking courses about management, leadership, negotiation, and &nbsp;&nbsp;&nbsp;others.
-<br><br>&nbsp;&nbsp;&nbsp;I'm getting practical experience by attending seminaries, workshops, conferences, trainings &nbsp;&nbsp;&nbsp;and having the experience of being the president of a student NGO focused on the business &nbsp;&nbsp;&nbsp;domain.
-
-Also, I'm an investor, passionate about stocks and, as well, crypto, having experince working both as a Game Economy Designer on blockchain games, also playing these types of games, and also very thoroughly learning and developing myself in this domain.
 
 <br>
 
