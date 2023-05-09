@@ -33,7 +33,7 @@
 ### &nbsp;&nbsp;Software engineering
 
 &nbsp;&nbsp;&nbsp;I like to work in a team developing apps, programs, scripts and solving real-life problems in &nbsp;&nbsp;&nbsp;languages like C, C++, JavaScript, Java and C#.
-<br><br>&nbsp;&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer programming, <br>&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
+<br><br>&nbsp;&nbsp;&nbsp;Some of the relevant coursework I've taken includes: Data structures, Computer &nbs &nbsp programming, <br>&nbsp;&nbsp;&nbsp;Object-oriented programming, Algorithms analysis, Introduction to
 Operating Systems, &nbsp;&nbsp;&nbsp;Programming Paradigms, Communication Protocols and others.
 
 
