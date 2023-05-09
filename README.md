@@ -54,7 +54,7 @@ Operating Systems, &nbsp;&nbsp;&nbsp;Programming Paradigms, Communication Protoc
 I'm passionate about the game development industry and I'm learning about developing games in Unity using C#.
 <br>
 <br>
-I'm also currently working full-time as a Game Economy Designer at Gameloft, learning a lot and contributing to big projects like Sniper Fury and Sniper Champions.
+I'm also currently working full-time as a Monetization Specialist at Ubisoft, learning a lot and contributing to big AAA projects like The Division 2.
 <br><br>Alongside countless tutorials, projects and materials, I've also attended two game development summer schools with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, Hyper-casual games, etc...
 
 <br>
@@ -76,7 +76,7 @@ Also, I'm an investor, passionate about stocks and, as well, crypto, having expe
  ---
   
  🌐 Portfolio: https://chelceaclaudiu.mystrikingly.com/ <br>
- 📝 View resume: [https://bit.ly/3Rz80at](https://bit.ly/3Rz80at)
+ 📝 View resume: [[https://bit.ly/3Rz80at](https://bit.ly/42I0myW)]([https://bit.ly/3Rz80at](https://bit.ly/42I0myW))
  
  ---
 
