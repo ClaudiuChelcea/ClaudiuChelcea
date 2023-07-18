@@ -10,7 +10,7 @@
 
   ---
   
-### <p align="center"> 💻 CSE student passionate about the IT industry, game development and about business 🎮 </p>
+### <p align="center"> 💻 Monetization Specialist 🎮 </p>
 ### <p align="center"> Excel is my sword and programming in Java / C++ is my shield 🛡️ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
