@@ -41,10 +41,5 @@ I'm also currently working full-time as a Monetization Specialist at Ubisoft, le
 <br><br>Alongside countless tutorials, projects and materials, I've also attended two game development summer schools with courses like: Economy Design & Game Balancing, Level Design, Rapid Game Development, 3D Modeling, VR & AR and developed alone or in a team games like: Tower Defense, Multiplayer RPG, Hyper-casual games, etc...
 
  ---
-  
- 🌐 Portfolio: https://chelceaclaudiu.mystrikingly.com/ <br>
- 📝 View resume: [https://bit.ly/42I0myW](https://bit.ly/41qM050)
- 
- ---
 
 <h1 align='center'><i>Stay awesome!</i></h1>
