@@ -11,7 +11,6 @@
   ---
   
 ### <p align="center"> 💻 Monetization Specialist 🎮 </p>
-### <p align="center"> Excel is my sword and programming in Java / C++ is my shield 🛡️ </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
   ---
@@ -31,8 +30,6 @@
 </p>
  
  
- 
-### Game development
 
 I'm passionate about the game development industry and I'm learning about developing games in Unity using C#.
 <br>
