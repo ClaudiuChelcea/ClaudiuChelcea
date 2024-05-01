@@ -33,7 +33,7 @@ With a solid foundation in Computer Science Engineering, I've developed an exten
 #### 📊 Leadership and Development:
 My proactive nature and self-improvement ethos have earned me leadership roles, notably as the President of a major student NGO and as an Undergraduate Teaching Assistant. I have also undertaken significant Project Management trainings and have mentored numerous students.
 
-<img width="25%" height="25%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Stocks.gif">
+<img width="25%" height="25%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/New-Stocks.gif">
 
 #### 💹 Business and Investment:
 A keen interest in business and blockchain technology has led me to co-found EcoLand, an international blockchain project gaining traction through significant partnerships and investments. Additionally, I am an active investor in stocks and cryptocurrencies, pairing very well with my analytical mind.
