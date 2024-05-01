@@ -1,4 +1,4 @@
-<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="280">
+<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Assassins Creed GIF.gif" width="100%" height="280">
 
 <h1 align='center'> Hi! :wave:<br> I'm Claudiu!</h1>
 
@@ -25,7 +25,7 @@
  ---
  
   <p>
-  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/UnityAnim.gif">
+  <img width="250" align='right' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Blockchain.gif">
 </p>
  
  
@@ -38,6 +38,7 @@ I am an avid learner and strive for excellence in all that I do. This drive has 
 
 📊 Leadership and Development: My proactive nature and self-improvement ethos have earned me leadership roles, notably as the President of a major student NGO and as an Undergraduate Teaching Assistant. I have also undertaken significant Project Management trainings and have mentored numerous students.
 
+<img width="250" align='left' height="200" src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Stocks.gif">
 💹 Business and Investment: A keen interest in business and blockchain technology has led me to co-found EcoLand, an international blockchain project gaining traction through significant partnerships and investments. Additionally, I am an active investor in stocks and cryptocurrencies, pairing very well with my analytical mind.
 
 🎮 Industry Experience: At Ubisoft and previously at Gameloft, my contributions have significantly impacted game monetization strategies and overall revenue growth. These roles have allowed me to leverage my skills in game design, economic modeling, and live operations management to deliver compelling user experiences.
