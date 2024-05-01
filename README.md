@@ -1,4 +1,4 @@
-<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Assassins Creed GIF.gif" width="100%" height="280">
+<img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/Assassins Creed GIF.gif" width="100%" height="100%">
 
 <h1 align='center'> Hi! :wave:<br> I'm Claudiu!</h1>
 
