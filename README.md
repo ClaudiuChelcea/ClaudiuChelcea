@@ -31,7 +31,7 @@ My proactive nature and self-improvement ethos have earned me leadership roles, 
 <img width="25%" height="25%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/New-Stocks.gif">
 
 #### 💹 Business and Investment:
-A keen interest in business and blockchain technology has led me to co-found EcoLand, an international blockchain gaming company gaining traction through significant partnerships and investments. Additionally, I am an active investor in stocks and cryptocurrencies, pairing very well with my analytical mind.
+A keen interest in business and blockchain technology has led me to co-found EcoLand, a blockchain gaming company gaining traction through significant partnerships and investments. Additionally, I am an active investor in stocks and cryptocurrencies, pairing very well with my analytical mind.
 
 #### 🎮 Industry Experience:
 At Ubisoft and previously at Gameloft, my contributions have significantly impacted game monetization strategies and overall revenue growth. These roles have allowed me to leverage my skills in game design, economic modeling, and live operations management to deliver compelling user experiences.
