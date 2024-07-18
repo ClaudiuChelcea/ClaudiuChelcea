@@ -4,7 +4,7 @@
 
 ---
 
-### <p align="center"> Monetization Specialist @ Ubisoft 💰 | Game Economy & Systems Design | Web3 </p>
+### <p align="center"> Monetization Specialist @ Ubisoft 💰 | Game Economy & Systems Design </p>
 ### <p align="center"> Nice to meet you 😉 </p>
 
 ---
