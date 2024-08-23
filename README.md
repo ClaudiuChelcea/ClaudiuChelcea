@@ -18,23 +18,11 @@
 
 ### Welcome to my profile!
 
-If you're wondering about my name, Claudiu Chelcea, just think of the English football club Chelsea ⚽ – but note, it's just a mnemonic and not a pronunciation guide! 😆
+I'm Claudiu Chelcea, a Monetization Specialist at Ubisoft with a Computer Science Engineering background. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
 
-I am an avid learner and strive for excellence in all that I do. This drive has led me through a diverse array of experiences, enriching my skills and broadening my perspectives.
+Beyond gaming, I'm deeply interested in business and digital transformation, currently pursuing an MBA focused on digital businesses. I co-founded EcoLand, a blockchain gaming company, and actively invest in stocks and cryptocurrencies.
 
-#### 👨‍💻 Professional Background:
-With a solid foundation in Computer Science Engineering, I've developed an extensive portfolio of projects ranging from games and automation scripts to websites and blockchain applications, most of which are showcased on my GitHub. My technical skills are complemented by strong competencies in SQL, Python, Excel, and VBA, which I utilize to enhance and automate processes in my current role at Ubisoft as a Monetization Specialist.
-
-#### 📊 Leadership and Development:
-My proactive nature and self-improvement ethos have earned me leadership roles, notably as the President of a major student NGO and as an Undergraduate Teaching Assistant. I have also undertaken significant Project Management trainings and have mentored numerous students.
-
-<img width="25%" height="25%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/New-Stocks.gif">
-
-#### 💹 Business and Investment:
-A keen interest in business and blockchain technology has led me to co-found EcoLand, a blockchain gaming company gaining traction through significant partnerships and investments. Additionally, I am an active investor in stocks and cryptocurrencies, pairing very well with my analytical mind. Currently pursuing an MBA with focus on digital businesses.
-
-#### 🎮 Industry Experience:
-At Ubisoft and previously at Gameloft, my contributions have significantly impacted game monetization strategies and overall revenue growth. These roles have allowed me to leverage my skills in game design, economic modeling, and live operations management to deliver compelling user experiences.
+My technical skills in SQL, Python, Excel, and VBA have been pivotal in automating processes and optimizing outcomes in my roles. My leadership experience includes serving as the President of a student NGO and mentoring students.
 
 I'm also known to be very friendly, so feel free to connect or drop me a message for a chat! 💬
 
