@@ -18,13 +18,11 @@
 
 ### Welcome to my profile!
 
-I'm Claudiu Chelcea, a Monetization Specialist at Ubisoft with a Computer Science Engineering background. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
+I'm Claudiu, a Monetization Designer at Ubisoft. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
 
-Beyond gaming, I'm deeply interested in business and digital transformation, currently pursuing an MBA focused on digital businesses. I co-founded EcoLand, a blockchain gaming company, and actively invest in stocks and cryptocurrencies.
+My technical skills in SQL, Python, Excel, and VBA are pivotal in automating processes and optimizing outcomes in my roles.
 
-My technical skills in SQL, Python, Excel, and VBA have been pivotal in automating processes and optimizing outcomes in my roles. My leadership experience includes serving as the President of a student NGO and mentoring students.
-
-I'm also known to be very friendly, so feel free to connect or drop me a message for a chat! 💬
+I'm also known to be very friendly, so feel free to connect or drop me a message! 💬
 
 ---
 
