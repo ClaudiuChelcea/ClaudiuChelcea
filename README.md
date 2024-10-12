@@ -14,7 +14,7 @@
 
 ---
 
-<img width="25%" height="25%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/pixel.gif">
+<img width="25%" height="45%" align='right' src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/pixel.gif">
 
 ### Welcome to my profile!
 
