@@ -18,7 +18,7 @@
 
 ### Welcome to my profile!
 
-I'm Claudiu, a Monetization Designer at Ubisoft. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
+I'm Claudiu, a Monetization Specialist at Ubisoft. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
 
 My technical skills in SQL, Python, Excel, and VBA are pivotal in automating processes and optimizing outcomes in my roles.
 
