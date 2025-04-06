@@ -18,12 +18,15 @@
 
 ### Welcome to my profile!
 
-I'm Claudiu, a Monetization Specialist at Ubisoft. My expertise lies in game economy design, live operations, and monetization strategies, with impactful contributions at both Ubisoft and Gameloft. I've successfully managed in-game stores, developed high-performing events, and implemented innovative monetization features that have driven significant revenue growth.
+Hey, I’m Claudiu - Monetization Specialist at Ubisoft. I design systems that make games more engaging and profitable. From revamping Battle Passes, balancing economies, to launching high-performing events and offers, I’ve worked on features that players love and that drive real business results.
 
-My technical skills in SQL, Python, Excel, and VBA are pivotal in automating processes and optimizing outcomes in my roles.
+I’ve worked across both AAA and mobile games, and for me, it’s never been about the platform - an economy is an economy. Whether it's on console or phone, the core challenge is the same: building smart systems that respect players while keeping them invested.
 
-I'm also known to be very friendly, so feel free to connect or drop me a message! 💬
+Before Ubisoft, at Gameloft, I helped rework in-game economies, rolled out new monetization features, and supported LiveOps on multiple titles.
 
+On the technical side, I use SQL, Excel, Looker, Python, and VBA to dig into data, run simulations, track performance, and automate workflows.
+
+I’m confident in my numbers, systems thinking, and how I work with people. I enjoy solving tough problems, sharing ideas, and learning from others. Also - I’m super easy to talk to, so feel free to reach out anytime. 💬
 ---
 
 <h1 align='center'><i>Stay awesome!</i></h1>
